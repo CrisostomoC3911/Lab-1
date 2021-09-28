@@ -4,13 +4,13 @@
 
 #### Glossary
 
-[ ] [Languages in order of preference](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
-[ ] [Frameworks](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
-[ ] [Tools](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
-[ ] [Experience](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
-[ ] [About Me](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
-[ ] [My favorite song](https://www.youtube.com/watch?v=SIuF37EWaLU)
-[ ] [Levels of swag I will never reach again](Swagapino.png)
+- [ ] [Languages in order of preference](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
+- [ ] [Frameworks](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
+- [ ] [Tools](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
+- [ ] [Experience](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
+- [ ] [About Me](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
+- [x] [My favorite song](https://www.youtube.com/watch?v=SIuF37EWaLU)
+- [x] [Levels of swag I will never reach again](Swagapino.png)
 
 #### Languages in order of preference
 
