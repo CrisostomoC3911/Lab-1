@@ -5,10 +5,11 @@
 #### Glossary
 
 - [ ] [Languages in order of preference](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
-- [ ] [Frameworks](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
-- [ ] [Tools](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
-- [ ] [Experience](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
-- [ ] [About Me](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
+- [ ] [Frameworks](https://crisostomoc3911.github.io/Lab-1/#frameworks)
+- [ ] [Tools](https://crisostomoc3911.github.io/Lab-1/#tools)
+- [ ] [Experience](https://crisostomoc3911.github.io/Lab-1/#experience)
+- [ ] [About Me](https://crisostomoc3911.github.io/Lab-1/#about-me)
+- [ ] [Memes](https://crisostomoc3911.github.io/Lab-1/#memes)
 - [x] [My favorite song](https://www.youtube.com/watch?v=SIuF37EWaLU)
 - [x] [Levels of swag I will never reach again](Swagapino.png)
 
@@ -56,3 +57,9 @@
  I am currently only fluent in English/Tagalog/Spanish, but I plan on becoming fluent in Cantonese, Mandarin, Japanese, Korean, Vietnamese,
  and French!
 ```
+
+#### Memes
+
+![npm install](npm.png)
+
+![project](project.jpg)
