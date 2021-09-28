@@ -4,11 +4,11 @@
 
 #### Glossary
 
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
+[ ] [Languages in order of preference](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
+[ ] [Frameworks](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
+[ ] [Tools](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
+[ ] [Experience](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
+[ ] [About Me](https://crisostomoc3911.github.io/Lab-1/#languages-in-order-of-preference)
 [ ] [My favorite song](https://www.youtube.com/watch?v=SIuF37EWaLU)
 [ ] [Levels of swag I will never reach again](Swagapino.png)
 
@@ -44,7 +44,7 @@
 
 > I previously intern'd as a **Software Development Lead** for the San Diego Supercomputer Center during the summer. During that time, I created a mobile app that manages a household's work allocation paired with a real time chat using **_React Native, Firebase, and Node.js_**. I am continuing this internship throughout the fall as well!
 
-#### About me
+#### About Me
 
 ```
  I am a senior student who grew up as an engineer and developed a passion for programming.
